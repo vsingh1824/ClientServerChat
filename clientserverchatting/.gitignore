@@ -1,0 +1,25 @@
+# --- Build output ---
+/bin/
+/out/
+/target/
+/build/
+*.class
+
+# --- Logs & crash dumps ---
+*.log
+hs_err_pid*
+
+# --- IDE stuff ---
+/.idea/
+/.vscode/
+/.settings/
+/.project
+/.classpath
+*.iml
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+
+# --- Env files ---
+.env
